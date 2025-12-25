@@ -51,12 +51,23 @@ https://yun.ikuai8.com/#/login?redirect=%](https://yun.ikuai8.com/#/login?redire
 ### IPv6地址：留空
 ### 开机自启动：打勾
 
-### A高级设置内
-### A启动命令为
+### 高级设置内
+### 启动命令为
 ```
 -L=socks5://ddvpn:dd123@:1080?udp=true
 ```
 ### A注：dvpn:dd123是用户名密码，1080是服务端口，可自行做修改
+
+### 13. 进入网络设置 > 端口映射 > 端口映射添加端口映射
+<img width="2466" height="930" alt="image" src="https://github.com/user-attachments/assets/608bc3f1-7c54-4045-b5c6-96e74e083c00" />
+
+## 内网地址填写容器列表中的IP
+## 端口填写启动命令中设置的端口
+## 保存即可
+<img width="2502" height="521" alt="image" src="https://github.com/user-attachments/assets/7c8b890f-0f35-4468-8cba-20b3a26c58b1" />
+
+# 到这里就搭建成功了
+
 
 
 
