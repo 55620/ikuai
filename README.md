@@ -23,7 +23,8 @@
 <img width="1332" height="366" alt="image" src="https://github.com/user-attachments/assets/175c81ae-9849-49dd-a39e-894e3337f936" />
 
 9. 回到插件管理打开docker把docker服务打开
-<img width="1080" height="430" alt="image" src="https://github.com/user-attachments/assets/4e110b37-ba78-43d7-8c42-58bb1411ce8f" />
+<img width="1338" height="450" alt="image" src="https://github.com/user-attachments/assets/8e716074-f29a-47f9-b087-f541bec74db7" />
+
 
 10. 点击点击【接口管理】-【添加】
 如下添加
