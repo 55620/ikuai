@@ -48,13 +48,8 @@ IPv6地址：留空
 开机自启动：打勾
 
 ### A高级设置内
-### A启动命令为`-L=socks5://ddvpn:dd123@:1080?udp=true`
+### A启动命令为```-L=socks5://ddvpn:dd123@:1080?udp=true```
 ### A注：dvpn:dd123是用户名密码，1080是服务端口，可自行做修改
-```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
-```
 
 
 
