@@ -42,13 +42,14 @@ https://yun.ikuai8.com/#/login?redirect=%](https://yun.ikuai8.com/#/login?redire
 
 ## 12.回到docker服务页面，在容器列表点击添加
 <img width="2538" height="825" alt="image" src="https://github.com/user-attachments/assets/ad934de2-96c6-4753-8a9f-eee2022b940b" />
-容器名称：自定义
-内存占用：64
-镜像文件：ginuerzh/gost:latest
-网络接口：选择接口管理里面创建的接口
-IPv4地址：留空
-IPv6地址：留空
-开机自启动：打勾
+
+### 容器名称：自定义
+### 内存占用：64
+### 镜像文件：ginuerzh/gost:latest
+### 网络接口：选择接口管理里面创建的接口
+### IPv4地址：留空
+### IPv6地址：留空
+### 开机自启动：打勾
 
 ### A高级设置内
 ### A启动命令为
