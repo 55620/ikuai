@@ -39,16 +39,16 @@
 
 ## A12.回到docker服务页面，在容器列表点击添加
 <img width="2538" height="825" alt="image" src="https://github.com/user-attachments/assets/ad934de2-96c6-4753-8a9f-eee2022b940b" />
-### A12.1 容器名称：自定义
-### A12.2 内存占用：64
-### A12.3 镜像文件：ginuerzh/gost:latest
-### A12.4 网络接口：选择接口管理里面创建的接口
-### A12.5IPv4地址：留空
-### A12.6 IPv6地址：留空
-### A12.7 开机自启动：打勾
+### A 容器名称：自定义
+### A 内存占用：64
+### A 镜像文件：ginuerzh/gost:latest
+### A 网络接口：选择接口管理里面创建的接口
+### A IPv4地址：留空
+### A IPv6地址：留空
+### A开机自启动：打勾
 
 ### A高级设置内
-### A启动命令为'-L=socks5://ddvpn:dd123@:1080?udp=true'
+### A启动命令为`-L=socks5://ddvpn:dd123@:1080?udp=true`
 ### A注：dvpn:dd123是用户名密码，1080是服务端口，可自行做修改
 
 
