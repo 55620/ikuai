@@ -1,9 +1,9 @@
 1. 首先绑定爱快云
 
-2. 进入爱快云平台添加docker插件[https://yun.ikuai8.com/#/login?redirect=%](https://yun.ikuai8.com/#/login?redirect=%2F)
+2. 进入爱快云平台添加docker插件，爱快云链接：[https://yun.ikuai8.com/#/login?redirect=%](https://yun.ikuai8.com/#/login?redirect=%2F)
+3. 点击【插件应用】-【安装】
 <img width="1338" height="357" alt="image" src="https://github.com/user-attachments/assets/8ebc63f5-1c3e-46ca-95a2-351986c6835d" />
 
-3. 点击【插件应用】-【安装】
 
 4. 选择部署好的爱快路由系统，点击【 > 】，再点击【确认】
 <img width="864" height="636" alt="image" src="https://github.com/user-attachments/assets/1b5c5923-fa27-4125-857f-3fae8314afe1" />
